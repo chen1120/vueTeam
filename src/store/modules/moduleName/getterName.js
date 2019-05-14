@@ -1,0 +1,9 @@
+const OUTPUT_COUNT = 'OUTPUT_COUNT'
+const GET_TODO = 'GET_TODO'
+const GETTER_NAME = 'GETTER_NAME'
+
+export {
+  OUTPUT_COUNT,
+  GET_TODO,
+  GETTER_NAME
+}
